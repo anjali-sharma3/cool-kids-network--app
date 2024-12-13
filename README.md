@@ -1,7 +1,7 @@
 ## Instructions for local setup:
 
 # 1. Clone the repo using the url :
- GitHub - anjali-sharma3/sms-rate-limiter
+ GitHub - https://github.com/anjali-sharma3/cool-kids-network--app.git
 # 2. Frontend setup: 
  # Use the following commands for the frontend setup
    cd frontend
