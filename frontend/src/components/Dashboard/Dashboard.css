@@ -1,0 +1,41 @@
+   .dashboard-container {
+     padding: 20px;
+     text-align: center;
+     background-color: #f9f9f9;
+   }
+
+   .dashboard-header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin-bottom: 20px;
+   }
+
+   .logout-btn {
+     background-color: #ff5a5a;
+     color: white;
+     padding: 10px 15px;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+   }
+
+   .logout-btn:hover {
+     background-color: #e14646;
+   }
+
+   .user-section,
+   .users-section {
+     margin-top: 30px;
+   }
+
+   .user-cards {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+     justify-content: center;
+   }
+
+   h2 {
+     color: #333;
+   }
