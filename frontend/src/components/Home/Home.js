@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import './Home.css';
 import { useNavigate } from 'react-router-dom';
 
-const Home = ({ setRole, setToken }) => {
+const Home = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
